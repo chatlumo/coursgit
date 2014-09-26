@@ -1,1 +1,2 @@
 Un fichier qui sera modifié.
+Ce fichier sera peut-être à supprimer.
